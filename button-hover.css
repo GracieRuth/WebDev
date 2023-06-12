@@ -1,0 +1,14 @@
+body{
+    background: rgb(211,211,211);
+    height: 100vh;
+    display: flex;
+    justify-content: center
+}
+button{
+    margin: auto;
+    background-color:pink;
+    padding:1rem 2rem;
+    font-size: 20px;
+    box-shadow: gray 3px 3px 7px 2px white;
+    
+}
